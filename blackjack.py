@@ -1,0 +1,1 @@
+print("Hello World!") #it ain't much, but it's honest work
